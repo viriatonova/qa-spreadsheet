@@ -2,10 +2,10 @@
 
 ## Description 
 
-- NodeJS aplication to generate spreadsheets with: 
+NodeJS aplication to generate spreadsheets with: 
 
-  - Column name: random names
-  - Column mail: emails based on name using mailinator public box
+- Column name: random names
+- Column mail: emails based on name using mailinator public box
 
 ## Usage
 
