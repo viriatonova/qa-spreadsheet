@@ -1,3 +1,6 @@
+.vscode/
+*.xlsx
+
 # Logs
 logs
 *.log
